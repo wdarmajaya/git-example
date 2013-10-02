@@ -1,1 +1,1 @@
-print 'hello world / hotfix'
+print 'hello world :) :) / hotfix'
